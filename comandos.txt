@@ -1,0 +1,2 @@
+mkdir src docs data
+echo "<h1>Hola</h1>" > src/index.html 
