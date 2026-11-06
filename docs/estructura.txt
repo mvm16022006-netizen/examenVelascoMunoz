@@ -1,0 +1,15 @@
+.:
+comandos.txt
+docs
+login.txt
+readme.md
+src
+
+./docs:
+estructura.txt
+manuales
+
+./docs/manuales:
+ayuda.html
+
+./src:

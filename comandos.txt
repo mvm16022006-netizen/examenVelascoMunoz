@@ -8,3 +8,5 @@
 5. touch ../../login.txt
 6. rm -r ../../..data
 7. mv ../../src/index.html ayuda.html
+8. cd ../..
+8. ls -R > docs/estructura.txt
