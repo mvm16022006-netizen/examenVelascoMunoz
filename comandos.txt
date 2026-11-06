@@ -3,3 +3,6 @@
 3. cd docs
 3. cp ../src/index.html ../data/copia.txt
 3. cd ..
+4. mkdir docs/manuales
+4. cd docs/manuales
+5. touch ../../login.txt
