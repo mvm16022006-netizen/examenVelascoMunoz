@@ -1,3 +1,4 @@
 Miguel Velasco Muñoz
-Lenguaje favorito: Python
+Lenguaje favorito: PHP
+Serie favorita: Breaking Bad
 Videojuego favorito: League of Legends
