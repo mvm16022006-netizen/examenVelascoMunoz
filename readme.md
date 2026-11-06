@@ -1,4 +1,4 @@
 Miguel Velasco Muñoz
 Lenguaje favorito: PHP
-Serie favorita: Breaking Bad
+Serie favorita: Suits
 Videojuego favorito: League of Legends
